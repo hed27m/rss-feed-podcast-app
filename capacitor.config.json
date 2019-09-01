@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "rss-feed-podcast-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

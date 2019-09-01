@@ -1,0 +1,7 @@
+{
+  "name": "rss-feed-podcast-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
